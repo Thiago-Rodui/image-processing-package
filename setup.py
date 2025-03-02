@@ -8,13 +8,13 @@ with open('requirements.txt', 'r') as f:
 
 setup(
     name='image-processing-package',
-    version='0.0.1',
+    version='0.1.0',
     author='Thiago',
     author_email='thiagorodui@gmail.com',
-    description='A package to process images',
+    description='Um pacote para processamento de imagens',
     long_description=page_description,
     long_description_content_type='text/markdown',
-    url='link-to-your-github',
+    url='https://github.com/Thiago-Rodui/image-processing-package',
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.6',
