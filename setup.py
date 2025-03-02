@@ -10,7 +10,6 @@ setup(
     name='image-processing-package',
     version='0.1.0',
     author='Thiago',
-    author_email='thiagorodui@gmail.com',
     description='Um pacote para processamento de imagens',
     long_description=page_description,
     long_description_content_type='text/markdown',
